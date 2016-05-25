@@ -1,12 +1,10 @@
-/*
- * UNIANDES-PUYO
- * SISTEMAS FACTURACION 2016
- * 23/05/2016
- */
+
 package Entidades;
 
 /**
- * ALBERTO CASCO
+ * * UNIANDES-PUYO
+ * SISTEMAS FACTURACION 2016
+ * NANCY ROMERO
  * OCTAVO SEMESTRE
  */
 public class clsProducto {
